@@ -1,0 +1,1 @@
+import {createSiteMenuTemplate} from './view/site-menu.js';
